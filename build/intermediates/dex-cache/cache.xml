@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/anhtuong/AndroidProjects/Foody/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/anhtuong/AndroidProjects/Foody/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_039719bde96e2746f4f87c5bd1a30181fbca1dce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anhtuong/.android/build-cache/264a8bfd1ef0cf191c7dedda248b6225da75c954/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/anhtuong/AndroidProjects/Foody/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_21abfe69a34ce9ae08d32525c9d44cb6f7193b91/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anhtuong/.android/build-cache/368157a22dc799c73aa0530835de97d7d2b473b7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/anhtuong/AndroidProjects/Foody/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2bff24537a7db7699cba62a81e9296a7b7b7cde6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anhtuong/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/anhtuong/AndroidProjects/Foody/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_24d7db58389404831c4078f6ed7ffdcb5ff74cb5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anhtuong/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/anhtuong/AndroidProjects/Foody/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_c8160a2a190cf3d100242fc9afc68667c4010c30/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anhtuong/.android/build-cache/c768696b6e6128796b975b4af72444a1474d657c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/anhtuong/AndroidProjects/Foody/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_63dc93cb890e5d0d2f32fd53871ed68d6a94d2f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anhtuong/AndroidProjects/Foody/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="784b9d82fb57c464a88ed5b5d115f4d3430f4751">
+        <dex dex="/Users/anhtuong/AndroidProjects/Foody/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_024820eff5318ccfb3d569bcb8d5771d08d2a598/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anhtuong/.android/build-cache/c7dbe9e95798106e88db491cefaa59b187fff857/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/anhtuong/AndroidProjects/Foody/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_86d3bd14b41be2faa581cf510a8ff64866d3c29b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anhtuong/.android/build-cache/92a0a5117c09936b6915a4c9c6cd36f58b490e9d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/anhtuong/AndroidProjects/Foody/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_50dffb59f64f62659f77b7d2210ad302a9abc1a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anhtuong/.android/build-cache/19954435de3a3ee82e244c263080173b3fbf9863/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/anhtuong/AndroidProjects/Foody/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a94d966aef06cf5de81bf893606705709d741594/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anhtuong/.android/build-cache/5c54853ab8a6dc4bf8ab3e8160f272a66661966e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/anhtuong/AndroidProjects/Foody/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_885c303885a495f13dbfe5a64b2ae39625af5693/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anhtuong/.android/build-cache/9b6354350914638bd2a1e38cd0e89c072d980e50/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/anhtuong/AndroidProjects/Foody/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1c7187de9d3e6923c449d4b2b2301ecc39f0dfef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anhtuong/.android/build-cache/1e173bebc4d4d00cc4445c746086b7106d5874cf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/anhtuong/AndroidProjects/Foody/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_837d65f2a345ec75cda5538f887c9b0a9a3b04a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anhtuong/.android/build-cache/f33c99aa976d58d56d66b20d4ea5019868d21f47/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/anhtuong/AndroidProjects/Foody/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_857a6a7c0bde4b8433eafd2ef5578ea02299a1e1/classes.dex" />
+    </item>
+
+</items>
